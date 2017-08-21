@@ -1,1 +1,6 @@
-* [前言](README.md)
+* [前言](index.md)
+* [产品模块](product/index.md)
+* [供应商模块](supplier/index.md)
+* [采购(入库)模块](purchase/index.md)
+* [订单(出库)模块](order/index.md)
+* [库存管理模块](inventory/index.md)
