@@ -10,5 +10,8 @@
         2. [3.1.2 银行管理](supplier/bank.md)
     2. [3.2 供应商报价](supplier/supplier-product.md)
 4. [4. 采购(入库)模块](purchase/index.md)
+    1. [4.1 采购单管理](purchase/purchase.md)
+    1. [4.2 采购单审核](purchase/check.md)
+    1. [4.3 采购单收货](purchase/arrived.md)
 5. [5. 订单(出库)模块](order/index.md)
 6. [6. 库存管理模块](inventory/index.md)
