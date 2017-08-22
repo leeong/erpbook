@@ -6,4 +6,5 @@
 3. [采购(入库)模块](purchase/index.md)
 4. [订单(出库)模块](order/index.md)
 5. [库存管理模块](inventory/index.md)
+5. 其它
 
