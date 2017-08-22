@@ -24,5 +24,5 @@
     3. [6.3 入库记录查询](inventory/inventory-in.md)
     4. [6.4 出库记录查询](inventory/inventory-out.md)
     5. [6.5 库存调拨](inventory/allot.md)
-7. [7. 其它]()
+7. [7. 其它](other/index.md)
     1. [7.1 汇率设置](other/rate.md)
